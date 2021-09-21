@@ -1,2 +1,3 @@
 JsBootstrap-shopping-cart
-![img](https://user-images.githubusercontent.com/52834318/134215846-38c60c47-7dd1-4f9f-834d-5702d0d5d1f2.png)
+
+![img](https://user-images.githubusercontent.com/52834318/134216068-4ee12f1b-e761-4608-b450-8e3930275087.png)
